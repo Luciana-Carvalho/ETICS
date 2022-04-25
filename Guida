@@ -6,14 +6,14 @@
   Aspetti generali
 
   *Sistema cappotto secondo:
-  1. Tipologie
-  Per tipo di materiale isolante e fissaggio
   1. Applicazione
   Per tipo di supporto edificio, ad esempio: mattone, pietra, latterizio,
   concreto, panello concreto pre fabbricato, facciata discontinua, struttura
   telaio in legno, muro in legno.
   Per tipo di isolante, ad esempio: intonaco per facciata discontinua, isolante
   in panello, pannello doppio incollato
+  1. Tipologie
+  Per tipo di materiale isolante e fissaggio
   1. Riferimenti EAD per ogni tipo di Applicazione
 
 # Checklist per individuare ogni tipologia di Applicazione
@@ -23,7 +23,9 @@
 # Istruzione di Progetto
   1. Requisiti minimi per materiali e sistema
     *Idoneità al uso
+    Ad esempio: resistenza al fuoco
     *Definizione di materiali
+    quello che va scritto su capitolato per ogni tipologia di applicazione
   1. Dettagli di progetto
 
 # Controllo di Progetto
