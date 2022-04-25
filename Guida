@@ -17,7 +17,7 @@
   1. Riferimenti EAD per ogni tipo di Applicazione
 
 # Checklist per individuare ogni tipologia di Applicazione
-  1. Tipo di sistema adatto
+  1. Tipo di sistema adatto: a base del supporto
   1. Materiali
 
 # Istruzione di Progetto
@@ -27,8 +27,63 @@
   1. Dettagli di progetto
 
 # Controllo di Progetto
-  1. Verifiche di progetto 
-  1. Verifiche sistema cappotto
+  Verifiche generali
+  1. Presenza e chiarezza delle indicazione necessarie per prove di idoneità e preparazione dei supporti secondo tipologia
+  1. Verificare che la tolleranze di misure siano riportate secondo UNI 11715 per quanto riguarda il supporto e il Sistema ETICS finito
+  1. Verificare che l'idoneità del materiale isolante termico sia correttamente dichiarata mediante l'appartenenza, o la conformità secondo le carratteristiche techniche a un kit certificato secondo la normativa vigente (EAD o EN); oppure la produzione con certificazione e marcatura CE conforme alle caratteristiche techniche indicate nel prEN17237
+  1. Presenza e chiarezza nelle indicazione necessarie per applicazione del collante. Ocorre verificare quanto segue: tra panello isolante e supporto non deve passare aria; indicare il metodo di incollaggio che può essere a cordolo perimetrale e punti centrali o a tutta superficie
+  1. Presenza e chiarezza nelle indicazione necessarie per applicazione del collante secondo il tipo di pannello, secondo UNI 11715-TR
+  1. Presenza e chiarezza nelle indicazione necessarie per la posa della filla superiore di pannelli isolanti. Ocorre verificare quanto segue l'uso del metodo di posa Floating-Buttering secondo UNI 11715-TR
+  1. Presenza e completezza dei particolari e dettaglio costruttivi con Floating-Buttering della filla di pannelli superiori
+  1. Presenza e chiarezza nelle indicazione necessarie per incollaggio dei pannelli isolanti su muratura. Ocorre verificare quanto segue:
+    *I pannelli vanno applicati dal basso verso l'alto a corsi sfalsati uno sull'altro;
+    *I pannelli dovrebbero essere completamente accostati sia in orizzontale che in verticale;
+    *La sfalsatura dei giunti verticali deve essere di almeno 25 cm;
+    *La posa deve essere regolare e planare;
+    *Indicazione sulle fughe per quanto riguarda il riempimento, secondo UNI 11715-TR;
+    *Indicazione d'uso esclusivo di pannelli integri e per spigoli dell'edificio uso di pannelli interi o dimezzati sfalsati tra loro
+  1. Presenza e chiarezza di indicazione sull'uso di solo utensili idonei per tagliare gli elementi di compensazione
+  1. Presenza di indicazione o dettaglio dei bordi dei pannelli che non dovrebbero spongere dagli spigoli dei contorni delle aperture
+  1. Presenza di indicazione sui bordi dei pannelli e fughe determinate da un cambio di materiale che vanno evitate oppure devono rispettare una sovvraposizione dei pannelli isolanti di almeno 10 cm
+  1. Presenza e chiarezza di indicazione sulle giunte di dilatazione dell'edificio che dovrebbero essere rispettate e prottete con idonei profili coprigiunte
+  1. Presenza e chiarezza di indicazione o dettaglio di esecuzione di isolamento di spalletta di serramento, secondo norma UNI 11715-TR
+  1. Presenza e chiarezza di soluzione per superficie isolata deteriorata a causa di esposizione per ritardo dell'opera, che dovrebbe essere ove possibile abrasa mediante leggera carteggiatura prima dell'applicazione dell'intonaco di base
+  1. Presenza e chiarezza di indicazione necessarie per incollaggio dei pannelli isolanti su muratura in legno e in pannelli da costruzione leggeri
+  1. Presenza e chiarezza di indicazione sulla eliminazione delle irregolarità dei pannelli isolanti posati secondo il tipo di isolante
+  1. Presenza e chiarezza di indicazione o dettaglio della tassellatura dei pannelli isolanti
+  1. Verificare che i pannelli isolanti in polistirene espanso EPS e in lana minerale di roccia MW con fibre perpendicolare (pannelli lamellari) siano indicate di essere incollati sui supporti (nuovi e con idonea resistenza superficiale): blocchi in latterizio o cemento, calcestruzzo senza isolamento termico integrato senza casseri a perdere in lana di legno mineralizzata
+  1. Verificare l'adeguatezza della forza di adesione dell'intonaco nel caso di supporti intonacati per la possibilità di non utilizzo dei tasselli
+  1. Presenza e chiarezza di indicazione necessarie per effetuare la tasselatura. Ocorre verificare:
+    *Prestare attenzione alle operazioni di foratura e di inserimento dei tasselli e verificare sempre la planarità dei pannelli. Specificare tasselli ad avvitamento ed evitare tasselli a battuta/a percussione
+    *Indicazione sui pannelli perimetrali/di zoocolatura che devono essere tassellati al di sopra del livello del terreno secondo le indicazione per pannelli isolanti per facciata
+  1. Presenza e chiarezza di indicazione che la tasselatura sia sempre necessaria per supporti costituiti da pareti leggere in lastre su orditura
+  1. Verificare indicazioni del produttore e alle condizioni dello specifico progetto lo spessore minimo del pannello per il quale è richiesta la tassellatura
+  1. Presenza e chiarezza di indicazione della necessità della tasselatura per il sistema ETICS con massa superficiale del sistema completo superiore a 30 Kg/m²
+  1. Presenza e chiarezza di indicazione della necessità della tassellatura per edifici di altezza superiore a 12 m
+  1. Presenza e chiarezza di indicazione della massa superficiale del sistema ETICS completo (colla + isolante + finitura)
+  1. Presenza e chiarezza di indicazione di prove di tenuta dei tasselli (resistenza all'estrazione) nel caso in cui il supporto non sia compreso tra quelli standard, secondo EAD 330196-00-0604, o sia costituito da lastre (per esempio in fibrocemento, in legno, in gesso fibrato) fissate su orditura (in metallo o legno)
+  1. Verificare se i tasselli scelti siano certificati secondo EAD 330335-00-0604 (supporti in muratura)
+  1. Presenza e chiarezza di indicazione delle caratteristiche techniche dei tasselli che devono essere: rigidità del piattelo uguale o superiore a 0,3 KN/mm (in base a EOTA TR 026); una portata del piattelo uguale o superiore a 1,0 KN (base EOTA TR 026); un coefficiente di conducibilità termica puntuale uguale o inferiore a 0,002 W/K (in base EOTA TR 025)
+  1. Presenza e chiarezza di indicazione della categoria d'uso dei tasselli secondo tipologia di supporto indicate nella norma EAD 330335-00-0604
+  1. Se il supporto non può essere classificato chiaramente vengono eseguite delle prove di tenuta allo strappo dei tasselli in cantiere, conforme all'Allegato D dell'EAD 330196-00-0604
+  1. Presenza e chiarezza di indicazione del diametro del piattelo che può variare ma non dovrebbe mai essere inferiore a 60 mm
+  1. Presenza e chiarezza di indicazione necessarie per la esecuzione dei fori per i tasselli secondo norma UNI 11715-TR
+  1. Presenza, chiarezza e correttezza della determinazione della quantità di tasselli valutata secondo la resistenza statica ai carichi da vento con base nelle norme techniche nazionale per le costruzione vigenti e i documenti di recepimento e applicazione dell'Eurocodice I
+  1. Presenza e chiarezza di indicazzione o dettaglio di schema di tassellatura scelto
+  1. Presenza e chiarezza di indicazione o dettaglio di schema di tasselatura specifica nel caso in cui la tassellatura non possa essere eseguita secondo i schemi indicati nella norma UNI 11715-TR. Ocorre verificare che tale schema dovrà tenere conto delle effetive possibili aree di fissaggio e garantire la necessaria resistenza globale al carico del vento
+  1. Presenza e chiarezza di indicazione o dettaglio di inserimento dei tasselli
+
+
+  Verifiche Progetto
+  1. Presenza e completezza dei particolari e dei dettagli costrutivi:
+    *Dettagli di posa Isolamento
+    *Dettagli di posa isolamento e serramenti
+    *Dettagli di posa armatura e serramenti
+    *Dettagli zoocolatura
+    *Dettagli giunta dilatazione
+    *Dettagli di posa tasselli
+
+  Verifiche sistema cappotto
     *Idoneità al uso
     *Adeguatezza di applicazione
 
