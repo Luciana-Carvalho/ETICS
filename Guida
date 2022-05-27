@@ -2,101 +2,234 @@
 # Norme E - Sistemi di isolamento dall'esterno
 
 # Introduzione
-  *Definizioni sistema cappotto (ETICS)
-  Aspetti generali
+  1.1. Definizioni sistema cappotto (ETICS)
+  Il sistema ETICS, External Thermal Insulation Composite System (sistema composito di isolamento termico esterno),
+  comunemente chiamato sistema a cappotto, è un sistema composito di elevata qualità, certificato a livello europeo
+  per l’isolamento termico esterno dell’edificio. Il sistema a cappotto permette di isolare in modo continuo la struttura
+  sia dal caldo che dal freddo e consente di ridurre al massimo il rischio di condensa, grazie alla capacità di accumulo
+  termico della parete e riducendo gli sbalzi termici. Tali sistemi sono efficaci sia dal punto di vista economico sia del
+  comfort abitativo in quanto garantisce un notevole risparmio energetico senza ridurre il comfort termico e la qualità
+  della vita. Inoltre, il sistema ETICS permette il prolungamento della vita dell’edificio stesso poiché lo protegge
+  dall’aggressione di agenti atmosferici, è permeabile al vapore acqueo e resiste ai raggi UV.
+  Il sistema di isolamento a cappotto è costituito dai seguenti elementi:
+  1. Collante e/o tasselli - la funzione di questi elementi è quella di fissare l’isolante al supporto murario.
+  Tale fissaggio può essere sviluppato mediate semplice incollaggio o, quando è necessario, può essere effettuato tramite
+  tasselli di materiale plastico o metallico. Inoltre, è possibile avere soluzioni che prevedono l’utilizzo contemporaneo di
+  tasselli e collante per garantire maggiore stabilità all’isolante;
 
-  *Sistema cappotto secondo:
-  1. Applicazione
-  Per tipo di supporto edificio, ad esempio: mattone, pietra, latterizio,
-  concreto, panello concreto pre fabbricato, facciata discontinua, struttura
-  telaio in legno, muro in legno.
-  Per tipo di isolante, ad esempio: intonaco per facciata discontinua, isolante
-  in panello, pannello doppio incollato
-  1. Tipologie
-  Per tipo di materiale isolante e fissaggio
-  1. Riferimenti EAD per ogni tipo di Applicazione
+  1. Pannello isolante - strato di isolamento termico con superficie regolare e con adeguate caratteristiche di resistenza
+  meccanica. Gli spessori del pannello sono valutati in relazione al tipo di edificio e alle caratteristiche climatiche di
+  progetto, dalle specifiche della normativa e dalle esigenze di benessere abitativo e risparmio energetico;
 
-# Checklist per individuare ogni tipologia di Applicazione
-  1. Tipo di sistema adatto: a base del supporto
-  1. Materiali
+  1. Rete di armatura - elemento dello strato di rasatura che svolge la funzione di conferire al sistema un’adeguata
+  capacità di resistenza agli urti e ai movimenti causati dalle escursioni termiche e dai fenomeni di ritiro. La realizzazione
+  dello strato avviene mediante l’incollaggio della rete in fibra di vetro apprettato sull’intonaco di base che ricopra il
+  pannello isolante;
 
-# Istruzione di Progetto
-  1. Requisiti minimi per materiali e sistema
-    *Idoneità al uso
-    Ad esempio: resistenza al fuoco
-    *Definizione di materiali
-    quello che va scritto su capitolato per ogni tipologia di applicazione
-  1. Dettagli di progetto
+  1. Malta rasante - ha la funzione di proteggere il pannello isolante e di creare la superficie adatta alla stesura degli
+  strati successivi di finitura. La rete di armatura è annegata all’interno di questo strato;
 
-# Controllo di Progetto
-  Verifiche generali
-  1. Presenza e chiarezza delle indicazione necessarie per prove di idoneità e preparazione dei supporti secondo tipologia
-  1. Verificare che la tolleranze di misure siano riportate secondo UNI 11715 per quanto riguarda il supporto e il Sistema ETICS finito
-  1. Verificare che l'idoneità del materiale isolante termico sia correttamente dichiarata mediante l'appartenenza, o la conformità secondo le carratteristiche techniche a un kit certificato secondo la normativa vigente (EAD o EN); oppure la produzione con certificazione e marcatura CE conforme alle caratteristiche techniche indicate nel prEN17237
-  1. Presenza e chiarezza nelle indicazione necessarie per applicazione del collante. Ocorre verificare quanto segue: tra panello isolante e supporto non deve passare aria; indicare il metodo di incollaggio che può essere a cordolo perimetrale e punti centrali o a tutta superficie
-  1. Presenza e chiarezza nelle indicazione necessarie per applicazione del collante secondo il tipo di pannello, secondo UNI 11715-TR
-  1. Presenza e chiarezza nelle indicazione necessarie per la posa della filla superiore di pannelli isolanti. Ocorre verificare quanto segue l'uso del metodo di posa Floating-Buttering secondo UNI 11715-TR
-  1. Presenza e completezza dei particolari e dettaglio costruttivi con Floating-Buttering della filla di pannelli superiori
-  1. Presenza e chiarezza nelle indicazione necessarie per incollaggio dei pannelli isolanti su muratura. Ocorre verificare quanto segue:
-    *I pannelli vanno applicati dal basso verso l'alto a corsi sfalsati uno sull'altro;
-    *I pannelli dovrebbero essere completamente accostati sia in orizzontale che in verticale;
-    *La sfalsatura dei giunti verticali deve essere di almeno 25 cm;
-    *La posa deve essere regolare e planare;
-    *Indicazione sulle fughe per quanto riguarda il riempimento, secondo UNI 11715-TR;
-    *Indicazione d'uso esclusivo di pannelli integri e per spigoli dell'edificio uso di pannelli interi o dimezzati sfalsati tra loro
-  1. Presenza e chiarezza di indicazione sull'uso di solo utensili idonei per tagliare gli elementi di compensazione
-  1. Presenza di indicazione o dettaglio dei bordi dei pannelli che non dovrebbero spongere dagli spigoli dei contorni delle aperture
-  1. Presenza di indicazione sui bordi dei pannelli e fughe determinate da un cambio di materiale che vanno evitate oppure devono rispettare una sovvraposizione dei pannelli isolanti di almeno 10 cm
-  1. Presenza e chiarezza di indicazione sulle giunte di dilatazione dell'edificio che dovrebbero essere rispettate e prottete con idonei profili coprigiunte
-  1. Presenza e chiarezza di indicazione o dettaglio di esecuzione di isolamento di spalletta di serramento, secondo norma UNI 11715-TR
-  1. Presenza e chiarezza di soluzione per superficie isolata deteriorata a causa di esposizione per ritardo dell'opera, che dovrebbe essere ove possibile abrasa mediante leggera carteggiatura prima dell'applicazione dell'intonaco di base
-  1. Presenza e chiarezza di indicazione necessarie per incollaggio dei pannelli isolanti su muratura in legno e in pannelli da costruzione leggeri
-  1. Presenza e chiarezza di indicazione sulla eliminazione delle irregolarità dei pannelli isolanti posati secondo il tipo di isolante
-  1. Presenza e chiarezza di indicazione o dettaglio della tassellatura dei pannelli isolanti
-  1. Verificare che i pannelli isolanti in polistirene espanso EPS e in lana minerale di roccia MW con fibre perpendicolare (pannelli lamellari) siano indicate di essere incollati sui supporti (nuovi e con idonea resistenza superficiale): blocchi in latterizio o cemento, calcestruzzo senza isolamento termico integrato senza casseri a perdere in lana di legno mineralizzata
-  1. Verificare l'adeguatezza della forza di adesione dell'intonaco nel caso di supporti intonacati per la possibilità di non utilizzo dei tasselli
-  1. Presenza e chiarezza di indicazione necessarie per effetuare la tasselatura. Ocorre verificare:
-    *Prestare attenzione alle operazioni di foratura e di inserimento dei tasselli e verificare sempre la planarità dei pannelli. Specificare tasselli ad avvitamento ed evitare tasselli a battuta/a percussione
-    *Indicazione sui pannelli perimetrali/di zoocolatura che devono essere tassellati al di sopra del livello del terreno secondo le indicazione per pannelli isolanti per facciata
-  1. Presenza e chiarezza di indicazione che la tasselatura sia sempre necessaria per supporti costituiti da pareti leggere in lastre su orditura
-  1. Verificare indicazioni del produttore e alle condizioni dello specifico progetto lo spessore minimo del pannello per il quale è richiesta la tassellatura
-  1. Presenza e chiarezza di indicazione della necessità della tasselatura per il sistema ETICS con massa superficiale del sistema completo superiore a 30 Kg/m²
-  1. Presenza e chiarezza di indicazione della necessità della tassellatura per edifici di altezza superiore a 12 m
-  1. Presenza e chiarezza di indicazione della massa superficiale del sistema ETICS completo (colla + isolante + finitura)
-  1. Presenza e chiarezza di indicazione di prove di tenuta dei tasselli (resistenza all'estrazione) nel caso in cui il supporto non sia compreso tra quelli standard, secondo EAD 330196-00-0604, o sia costituito da lastre (per esempio in fibrocemento, in legno, in gesso fibrato) fissate su orditura (in metallo o legno)
-  1. Verificare se i tasselli scelti siano certificati secondo EAD 330335-00-0604 (supporti in muratura)
-  1. Presenza e chiarezza di indicazione delle caratteristiche techniche dei tasselli che devono essere: rigidità del piattelo uguale o superiore a 0,3 KN/mm (in base a EOTA TR 026); una portata del piattelo uguale o superiore a 1,0 KN (base EOTA TR 026); un coefficiente di conducibilità termica puntuale uguale o inferiore a 0,002 W/K (in base EOTA TR 025)
-  1. Presenza e chiarezza di indicazione della categoria d'uso dei tasselli secondo tipologia di supporto indicate nella norma EAD 330335-00-0604
-  1. Se il supporto non può essere classificato chiaramente vengono eseguite delle prove di tenuta allo strappo dei tasselli in cantiere, conforme all'Allegato D dell'EAD 330196-00-0604
-  1. Presenza e chiarezza di indicazione del diametro del piattelo che può variare ma non dovrebbe mai essere inferiore a 60 mm
-  1. Presenza e chiarezza di indicazione necessarie per la esecuzione dei fori per i tasselli secondo norma UNI 11715-TR
-  1. Presenza, chiarezza e correttezza della determinazione della quantità di tasselli valutata secondo la resistenza statica ai carichi da vento con base nelle norme techniche nazionale per le costruzione vigenti e i documenti di recepimento e applicazione dell'Eurocodice I
-  1. Presenza e chiarezza di indicazzione o dettaglio di schema di tassellatura scelto
-  1. Presenza e chiarezza di indicazione o dettaglio di schema di tasselatura specifica nel caso in cui la tassellatura non possa essere eseguita secondo i schemi indicati nella norma UNI 11715-TR. Ocorre verificare che tale schema dovrà tenere conto delle effetive possibili aree di fissaggio e garantire la necessaria resistenza globale al carico del vento
-  1. Presenza e chiarezza di indicazione o dettaglio di inserimento dei tasselli
+  1. Sottofondo stabilizzante - viene utilizzato per ottenere migliori condizioni di adesione e compatibilità dello strato
+  di finitura con lo strato di intonaco sottile armato già realizzato;
 
+  1. Rivestimento di finitura - ha la funzione di realizzare la finitura del sistema e ha come funzione primaria quella
+  di proteggere l’involucro dagli agenti atmosferici (pioggia, raggi UV); deve possedere una buona elasticità alle sollecitazioni
+  meccaniche e deve essere sufficientemente permeabile al vapore acqueo. Inoltre, questo strato ha anche funzione estetica, si
+  tratta di un rivestimento o di una particolare pittura base sintetica o minerale che si può realizzare con varie finiture
+  speciali: rustico, rasato, liscio, graffiato, spugnato o spruzzato;
 
-  Verifiche Progetto
-  1. Presenza e completezza dei particolari e dei dettagli costrutivi:
-    *Dettagli di posa Isolamento
-    *Dettagli di posa isolamento e serramenti
-    *Dettagli di posa armatura e serramenti
-    *Dettagli zoocolatura
-    *Dettagli giunta dilatazione
-    *Dettagli di posa tasselli
+  1. Accessori - elementi utilizzati per realizzare giunzioni con strutture diverse (ad esempio finestre), protezione
+  (paraspigoli), sostegno (profili di partenza e guide) ed elementi decorativi.
 
-  Verifiche sistema cappotto
-    *Idoneità al uso
-    *Adeguatezza di applicazione
+  1.1. Tipologie
+  È possibile classificare i sistemi ETICS secondo diverse tipologie:
 
-## Riferimenti
+  1.1.1. Isolamento
+  I pannelli isolanti hanno la funzione di aumentare la resistenza termica delle superfici opache. Per avere certezza della
+  prestazione dell’isolante è necessario svolgere un’attenta analisi; i parametri che determinano la scelta del tipo di isolante
+  sono la conducibilità termica, la resistenza al passaggio del vapore acqueo e la stabilità dimensionale.
+  Lo spessore dei pannelli isolanti dipende dal tipo di supporto murario sul quale sono applicati al fine di raggiungere la
+  resistenza termica necessaria e ottemperare i requisiti termici e acustici di legge. Inoltre, un aspetto di notevole importanza
+  riguarda la resistenza al fuoco del materiale isolante.
+  I materiali isolanti utilizzati per i sistemi a cappotto sono:
+  -	Lana di roccia (MW) [EN 13162]
+  -	Polistirene espanso sinterizzato (EPS) [EN 13163]
+  -	Polistirene espanso estruso (XPS) [EN 13164]
+  -	Poliuretano espanso rigido [EN 13165]
+  -	Resine fenoliche espanse
+  -	Vetro cellulare
+  -	Sughero
+  -	Fibre di legno
+
+  1.1.1 Fissaggio
+  Dal punto di vista della progettazione, i sistemi ETICS si differenziano secondo i metodi di fissaggio in:
+  Sistemi incollati
+  -	Sistemi esclusivamente incollati
+  -	Sistemi completamente incollati (sull’intera superficie) o parzialmente incollati in fasce e/o punti specifici
+  -	Sistemi incollati e con fissaggi meccanici aggiuntivi
+  -	Carico distribuito totalmente dallo strato legante. I fissaggi meccanici sono utilizzati fondamentalmente per fornire
+    stabilità fino alla completa essiccazione dell’adesivo ed agiscono come collegamento temporaneo per evitare il rischio di
+    distacco. Possono fornire stabilità maggiore anche in caso di incendio
+  Sistemi con fissaggio meccanico
+  -	Sistemi fissati meccanicamente con adesivo supplementare
+  -	Il carico è distribuito totalmente dai fissaggi meccanici. Il collante viene utilizzato principalmente per garantire
+    la planarità del Sistema installato
+  -	Sistema con fissaggio esclusivamente meccanico
+  -	Il Sistema è fissato al supporto esclusivamente con elementi di fissaggio meccanici
+
+  1.1.1 Applicazione
+  I Sistemi ETICS possono essere distinti a seconda del tipo di applicazione. Si classificano in base a:
+	Tipo di supporto dell’edificio
+  - mattoni
+  - pietra
+  - laterizio
+  - calcestruzzo
+  - calcestruzzo prefabbricato
+  - legno
+
+  1.1. Indicazioni di posa dei pannelli isolanti
+  La posa dei pannelli isolanti sulla muratura è particolarmente importante, va effettuata dal basso verso l’alto a corsi sfalsati
+  l’uno sull’altro. I pannelli dovrebbero essere accostati completamente sia in direzione orizzontale che verticale. I giunti
+  verticali devono essere sfalsati di almeno 25 cm.
+  Una zona particolarmente critica durante la fase di posa dei pannelli isolanti negli angoli. Sugli spigoli dell’edificio è
+  possibile utilizzare pannelli interi o dimezzati sfalsati tra loro.
+
+  1.1. Indicazioni di fissaggio
+  1.1.1 Incollaggio
+  La stesura della colla può avvenire in maniera manuale o tramite l’utilizzo di una macchina. È importante che tra lo strato
+  isolante e la colla non passi aria, per evitare l’effetto camino, e che la lastra sia fissata uniformemente alla superficie
+  del supporto.
+
+  I metodi di incollaggio possibili sono di due tipi:
+  -	Incollaggio a cordolo e punti
+  -	Incollaggio su tutta la superficie
+  Nel metodo a cordolo e punti la malta viene applicata al pannello isolante in moda da coprire tutto il perimetro del pannello
+  e in alcuni punti centrali di questo. Questa tipologia è solitamente utilizzata in presenza di supporti con piccole irregolarità
+  che possono essere compensate.
+
+  Nel metodo di incollaggio a tutta superficie, lo strato di malta viene steso su tutta la superficie del pannello attraverso
+  l’utilizzo di una spatola dentata. Bisogna evitare di stendere la malta lungo il bordo perimetrale del pannello (circa 2 cm)
+  per evitare che questa defluisca nei giunti dei pannelli, questo provocherebbe la formazione di piccoli ma significativi ponti
+  termici locali. Questa tipologia è particolarmente adatta su supporti con una buona planarità.
+
+  È necessario che il pannello isolante abbia una superficie regolare e con adeguate caratteristiche di resistenza meccanica.
+  La posa dei pannelli avviene dal basso verso l’alto e, inoltre, è preceduta dal posizionamento di un profilo di partenza per
+  evitare che vengano posati erroneamente.
+
+  I pannelli vengono attaccati al supporto murario subito dopo la stesura del collante, e il lato lungo di questi deve essere
+  posizionato in orizzontale.
+  La posa deve essere effettuata a giunti verticali sfalsati ed evitando fessure tra i giunti. È fondamentale che tra un pannello
+  e l’altro non ci siano dislivelli maggiori di 0,5 mm.
+
+  1.1.1 Fissaggio meccanico
+  Nel caso di supporti con scarse resistenze meccaniche che non garantiscono l'adesione della malta collante può essere previsto
+  un fissaggio meccanico dei pannelli con appositi tasselli costituiti da un disco e da un gambo.
+  Il numero di tasselli deriva dalle prove di sicurezza statica UNI EN 1991-1-4:2005 (Eurocodice 1 - Azioni sulle strutture -
+  Parte 1-4: Azioni in generale - Azioni del vento) e ai rispettivi documenti nazionali di recepimento e applicazione. Questo
+  calcolo dipende dai seguenti parametri:
+  -	resistenza allo strappo del tassello dal supporto;
+  -	tipo e caratteristiche del materiale isolante (resistenza alla trazione e alla perforazione);
+  -	altezza dell‘edificio;
+  -	posizione dell‘edificio;
+  -	località in cui sorge l‘edificio;
+  -	forma dell‘edificio.
+
+  È particolarmente importante per la scelta del numero di tasselli l’altezza dell’edificio e l’orientamento in quanto questi
+  svolgono la loro funzione principale soprattutto in zone dove l’azione del vento può creare situazioni di depressione
+  consistente. In funzione del carico del vento viene determinata la larghezza delle zone perimetrali (mai essere inferiore ad 1 m
+  e superiore a 2 m), sulle quali è necessario aumentare il numero dei tasselli. In ogni caso va sempre assicurato lo schema di
+  tassellatura a T o a W a seconda del materiale isolante.
+
+  Lo schema di tassellatura può essere di due tipi:
+  -	Schema a “T”
+  -	Schema a “W”
+
+# Riferimenti
+  Riferimenti per l’applicazione del Sistema ETICS:
+  1.	UNI-TR 11715:2018, Isolanti termici per l'edilizia - Progettazione e messa in opera dei sistemi isolanti termici per l'esterno (ETICS)
+  1.	EAD 040083-00-0404 - ETICS with renderings
+  1.	EAD 040089-00-0404 - ETICS with renderings for the use on timber frame buildings
+  1.	EAD 040287-00-0404 - Kits for ETICS with panels as thermal insulation product and discontinuous claddings as exterior skin
+  1.	EAD 040427-00-0404 - Kits for ETICS with mortar as thermal insulation product and renderings or discontinuous claddings as exterior skin
+  1.	EAD 040465-00-0404 - ETICS with renderings on mono-layer or multi-layer wall made of timber
+  1.	EAD 040759-00-0404 - ETICS with rendering on boards based on polystyrene and cement
+
+# Istruzioni di progetto
+Il percorso progettuale per la corretta definizione del sistema ETICS inizia con la definizione del sito di intervento, in
+particolare del tipo di supporto e rilievo del suo stato per quanto riguarda il livello di degrado. Per i nuovi edifici, la
+valutazione del supporto è importante per la fase di posa, e dovrebbe essere indicata nella documentazione di progetto.
+Il rilievo dello stato del supporto va effettuato preferibilmente eseguendo esami e prove di idoneità, secondo la norma
+UNI 11715-TR. Qualora non fosse possibile effettuare prove, il progettista dovrà specificare materiali e sistemi con coefficienti
+di sicurezza più elevati, in particolare per il sistema di incollaggio e fissaggio meccanico.
+I dettagli del progetto devono essere esaustivi e includere:
+  - tutte le specifiche dei materiali, che devono essere correttamente caratterizzati (caratteristiche tecniche, categoria d'uso,
+  ecc), compresa l'idoneità dichiarata secondo le normative vigenti (EAD o EN), oppure la produzione con certificazione e marcatura
+  CE, secondo prEN17237;
+  - indicazione di tolleranze di planarità del supporto e del sistema ETICS secondo la norma UNI 11715-TR
+  - indicazione del tipo di trattamento superficiale prima dell'applicazione del sistema, in base al tipo e allo stato del supporto
+  - dettagli di applicazione del collante, indicando il tipo di applicazione adottato (cordolo perimetrale e punti centrali o tutta
+  superficie) e dettagli specifici, come quello della posa della fila superiore di pannelli isolanti, oltre alle istruzioni per il
+  trattamento del supporto in base al tipo di adesivo utilizzato;
+  - dettagli per la posa del pannello isolante, indicando il posizionamento dei pannelli, la sfalsatura dei giunti verticali, il
+  trattamento delle fughe, l'applicazione dei pannelli negli spigoli dell'edificio e contorni delle aperture, da integrare con i
+  giunti delle dilatazioni dell'edificio;
+  - definizione e dettaglio della tassellatura dei pannelli isolanti che comprende: definizione del materiale e tipo di tassello,
+  definizione dello schema di tassellatura, definizione del numero di tasselli idonei al progetto, definizione del tipo di foratura
+  e istruzioni per l'inserimento corretto dei tasselli;
+  - dettagli di inserimento della rete di armatura agli angoli di porte e finestre;
+  - definizione del tipo di intonaco di base e istruzione di posa;
+  - definizione di utilizzo di primer e intonaco di finitura
+
+  Secondo la norma UNI 11715-TR:
+  Durante la progettazione e la stesura di capitolati per i Sistema ETICS occorre inoltre verificare che:
+  - il Sistema ETICS previsto sia correttamente dimensionato per l’isolamento termico richiesto e rispetti le verifiche termoigrometriche previste;
+  - siano analizzate le zone più critiche e valutate le soluzioni più adeguate (per esempio zoccolatura, edifici alti, contatto con acqua, ...);
+  - siano rispettate le norme antincendio dei regolamenti nazionali vigenti;
+  - siano disponibili indicazioni sulla morfologia del territorio adiacente all’edificio ed i relativi carichi di vento
+  caratteristici per definire il fissaggio meccanico supplementare tramite tasselatura, se previsto;
+  - giunti e raccordi siano progettati in modo da resistere alla pioggia battente e impedire la formazione di umidità nel
+  Sistema ETICS;
+  - gli elementi di fissaggio, per esempio per persiane, ringhiere, tapparelle, ecc., siano progettati in modo da consentire
+  un montaggio stabile e riducendo l’effetto del ponte termico;
+  - giunti, raccordi, perforazioni e dettagli siano progettati mettendo a disposizione chiare indicazioni di realizzazione.
+
+# Controllo di progetto
+  Per il controllo del progetto sono state elencate le verifiche, divise in generali e specifiche, al fine di organizzare il
+  lavoro in modo da consentire una maggiore efficienza nel processo di valutazione, nonché per garantire che tutti gli elementi
+  necessari alla realizzazione di un buon progetto vengono presi in considerazione
+  Si raccomanda di adottare le verifiche generali per tutte le tipologie, siano esse di supporto o di sistema ETICS.
+  Le verifiche specifiche, invece, dovrebbero essere applicate solo in casi specifici, dopo aver individuato il supporto e la
+  tipologia del sistema ETICS, inclusa la tipologia di materiale e tecnologia adottata.
+  La lista di verifiche adatta per ciascuna tipologia è stata preparata sulla base della lista di controllo per ogni singola
+  tipologia di applicazione. La tabella può essere utilizzata come riferimento per l'organizzazione del controllo del progetto.
+
+# Verifiche Generale
+
+# Verifiche Specifiche
+
+# Guida alla verifica
+Le verifiche riportante nel capitolo 4 sono una guida da applicare nei diversi casi di studio in cui sono presenti Sistemi ETICS.
+I rilievi dovranno essere classificati in tre livelli che intendono quanto segue:
+1.	Conforme: quando un elemento progettuale è stato trattato e approfondito nella maniera corretta, nel rispetto delle norme
+cogenti.
+1.	Non conforme: quando un elemento del progetto risulta in contrasto con Leggi cogenti, norme di riferimento, richieste
+prestazionali espresse dal Quadro Esigenziale o può essere tale da poter essere oggetto di contenzioso (di tipo economico,
+tecnico, etc.) tra i soggetti coinvolti nella realizzazione dell’opera.
+1.	Osservazione: quando un elemento progettuale è stato trattato ma non è sufficientemente approfondito, e quindi non può
+essere indicato come non conforme.
+
+Le Osservazioni non devono essere riferibili ad un potenziale errore progettuale e non devono perciò pregiudicare l’opera, il
+suo utilizzo e la gestione dell’intero Appalto.
+La presenza, di anche una sola, Non conformità nel rapporto conclusivo dovrà necessariamente portare ad un giudizio non conforme.
+
+# Norme
 
 > Norme secondo l'ordine cronologica e livello di classificazione:
   * Generale
   * Progetto
   * Codici di Pratica
   * Prodotto
-  * laboratorio
+  * Laboratorio
 
 ## Norme E1 - Generale
 
